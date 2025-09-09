@@ -7,7 +7,7 @@ This is my first college project.
 <br>
 *MITHILESH YADAV
 <br>
-*VISHAL SIROHI
+*VISHAL SIROHI (leader)
 <br>
 *KOMAL SINGH
 <br>
